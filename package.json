@@ -1,0 +1,23 @@
+{
+  "name": "test.ski.jumping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculateTotalPoints.js",
+  "scripts": {
+    "test": "test": "mocha index.test.js",
+    "test:watch": "onchange \"./*.js\" -- npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domin11/24.2-test-ski-jumping.git"
+  },
+  "author": "domin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domin11/24.2-test-ski-jumping/issues"
+  },
+  "homepage": "https://github.com/domin11/24.2-test-ski-jumping#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
