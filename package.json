@@ -4,7 +4,7 @@
   "description": "",
   "main": "calculateTotalPoints.js",
   "scripts": {
-    "test": "mocha calculateDistancePoints.test.js",
+    "test": "mocha calculateTotalPoints.test.js",
     "test:watch": "onchange \"./*.js\" -- npm test"
   },
   "repository": {
